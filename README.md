@@ -1,6 +1,6 @@
 ### Hi there, I'm Remek - aka [RemusDev][website] 👋
 
-[![website](https://img.shields.io/website?label=remusdev.cf&style=for-the-badge&url=https%3A%2F%2Fremusdev.cf)](https://remusdev.cf)
+[![website](https://img.shields.io/website?label=remusdev.cf&style=for-the-badge&url=https%3A%2F%2Fremusdev.cf)](https://remusdev.xyz)
 
 ## I'm a Developer!!
 
@@ -27,7 +27,7 @@
 
 
 
-[website]: https://remusdev.cf
+[website]: https://remusdev.xyz
 [visual]: https://code.visualstudio.com
 [HTML5]: https://pl.wikipedia.org/wiki/HTML5
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
