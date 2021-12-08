@@ -2,7 +2,7 @@
 
 [![website](https://img.shields.io/website?label=remusdev.xyz&style=for-the-badge&url=https%3A%2F%2Fwww.remusdev.xyz)](https://www.remusdev.xyz)
 
-## I'm a Developer!!
+## I'm a student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
