@@ -1,7 +1,7 @@
 ### Hi there, I'm Remek - aka [RemusDev][website] 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals for 2022: More ambition and no laziness
 - ⚡ Fun fact: I love to play guitar / drums
 
 ### Connect with me:
