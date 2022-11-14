@@ -19,6 +19,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mongodb/mongodb.png" />][MongoDB]
 
 
 
@@ -26,6 +27,7 @@
 [visual]: https://code.visualstudio.com
 [HTML5]: https://pl.wikipedia.org/wiki/HTML5
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
+[MongoDB]: https://pl.wikipedia.org/wiki/MongoDB
 [SQL]: https://pl.wikipedia.org/wiki/SQL
 [MySQL]: https://pl.wikipedia.org/wiki/MySQL
 [github]: https://github.com
