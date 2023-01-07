@@ -1,7 +1,7 @@
-### Hi there, I'm Remek - aka [RemusDev][website] 👋
+### Hi there, I'm Remek - aka [remuswtf][website] 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals for 2022: More ambition and no laziness
+- 🥅 Goals for 2023: More ambition and no laziness
 - ⚡ Fun fact: I love to play guitar / drums
 
 ### Connect with me:
@@ -23,7 +23,7 @@
 
 
 
-[website]: https://www.remusdev.xyz
+[website]: https://remus.wtf
 [visual]: https://code.visualstudio.com
 [HTML5]: https://pl.wikipedia.org/wiki/HTML5
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
@@ -31,7 +31,6 @@
 [SQL]: https://pl.wikipedia.org/wiki/SQL
 [MySQL]: https://pl.wikipedia.org/wiki/MySQL
 [github]: https://github.com
-[course]: https://remusdev.cf
+[course]: https://remus.wtf
 [youtube]: https://www.youtube.com/channel/UCdgcw6GtgYSGP66l79B8X0Q
 [instagram]: https://www.instagram.com/remus_to_zioomal/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
