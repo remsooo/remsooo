@@ -31,6 +31,7 @@
 [mongoose]: https://en.wikipedia.org/wiki/Mongoose_(MongoDB)
 [SQL]: https://pl.wikipedia.org/wiki/SQL
 [MySQL]: https://pl.wikipedia.org/wiki/MySQL
+[php]: https://pl.wikipedia.org/wiki/PHP
 [github]: https://github.com
 [course]: https://remus.wtf
 [youtube]: https://www.youtube.com/channel/UCdgcw6GtgYSGP66l79B8X0Q
