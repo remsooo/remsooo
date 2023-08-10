@@ -1,4 +1,4 @@
-### Hi there, I'm Remek - aka [remuswtf][website] 👋
+### Hi there, I'm Remek - aka [remsooo][website] 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals for 2023: More ambition and no laziness
