@@ -1,8 +1,8 @@
 ### Hi there, I'm Remek - aka [remsooo][website] 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals for 2023: More ambition and no laziness
-- ⚡ Fun fact: I love to play guitar / drums
+- 🥅 Goals for 2024: More ambition
+- ⚡ Fun fact: I have my [discord verification bot][website2]
 
 ### Connect with me:
 
@@ -26,6 +26,7 @@
 
 [discord]: https://discord.com
 [website]: https://remus.wtf
+[website2]: https://earthbot.xyz/
 [visual]: https://code.visualstudio.com
 [HTML5]: https://pl.wikipedia.org/wiki/HTML5
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
