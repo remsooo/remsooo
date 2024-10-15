@@ -26,7 +26,7 @@
 
 [discord]: https://discord.com
 [website]: https://remus.wtf
-[website2]: https://earthbot.xyz/
+[website2]: https://earthbot.xyz
 [visual]: https://code.visualstudio.com
 [HTML5]: https://pl.wikipedia.org/wiki/HTML5
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
