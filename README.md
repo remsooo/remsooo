@@ -1,7 +1,7 @@
 ### Hi there, I'm Remek - aka [remsooo][website] 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals for 2024: More ambition
+- 🥅 Goals for 2025: More ambition
 - ⚡ Fun fact: I have my [discord verification bot][website2]
 
 ### Connect with me:
