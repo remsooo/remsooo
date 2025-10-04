@@ -1,9 +1,5 @@
 ### Hi there, I'm Remek - aka [remsooo][website] 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Goals for 2025: More ambition
-- ⚡ Fun fact: I have my [discord verification bot][website2]
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
